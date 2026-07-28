@@ -23,7 +23,8 @@ middleware up through the dashboards, mobile apps and infrastructure around it.
 <a href="mailto:Elkhoualed.Ahmed@esprit.tn">
   <img src="https://img.shields.io/badge/Email-FE4300?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://asset.rfidia.com">
+<!-- TODO(ahmed): swap in your portfolio URL once it is deployed. -->
+<a href="https://ahmed4268.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ahmed4268&style=for-the-badge&color=FE4300&label=PROFILE+VIEWS" alt="Profile views" />
@@ -121,7 +122,7 @@ Shipped to production for **GAT Assurances**, **Transcom**, **SOTIPAPIER** and
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed4268&hide_border=true&ring=FE4300&fire=FE4300&currStreakLabel=FE4300&background=00000000&stroke=E4E2DE&sideLabels=6D6A66&dates=6D6A66" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=ahmed4268&hide_border=true&ring=FE4300&fire=FE4300&currStreakLabel=FE4300&background=00000000&stroke=E4E2DE&sideLabels=6D6A66&dates=6D6A66" alt="Streak" />
 
 <br /><br />
 
